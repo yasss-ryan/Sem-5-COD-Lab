@@ -1,9 +1,8 @@
-##Name
+Name
+Mohammed Yaseen Rayaan
 
-Mohammed Yaseen   Rayaan
-##SRN
-
+SRN
 PES2UG22EC080
-##System
 
+System
 VBox L
